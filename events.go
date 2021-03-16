@@ -6,7 +6,7 @@ package events
 import (
 	"sync"
 
-	. "github.com/neatio-project/go-common"
+	. "github.com/neatlib/common-go"
 )
 
 // Generic event data can be typed and registered with tendermint/go-wire

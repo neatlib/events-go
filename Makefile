@@ -1,5 +1,5 @@
 .PHONY: docs
-REPO:=github.com/neatio-project/go-events
+REPO:=github.com/neatlib/events-go
 
 docs:
 	@go get github.com/davecheney/godoc2md
